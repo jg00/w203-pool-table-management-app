@@ -208,7 +208,6 @@ def user_options():
                 for table in table_list:
                     if table["table_number"] == rent_table_number:
                         table_dictionary = table
-                        # print("Table {0} {1}".format(table["table_number"], table["start_date_time"]))
 
                 # If table number not found return to options menu
                 if table_dictionary == {}:
@@ -217,9 +216,7 @@ def user_options():
 
                 # If table number found rent out the table if available
                 if table_dictionary["start_date_time"] == "":
-                    # table_dictionary["start_date_time"] = datetime.datetime.now().strftime("%D %T")
                     table_dictionary["start_date_time"] = datetime.datetime.now().strftime("%m/%d/%y %H:%M:%S")
-
                     print("Pool table {0} rented out".format(table_dictionary["table_number"]))
                 else:
                     print("Pool table {0} is currently occupied".format(table_dictionary["table_number"]))
