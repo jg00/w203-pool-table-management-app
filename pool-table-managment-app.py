@@ -1,5 +1,3 @@
-# version 11 working version but need to upate daily reports file
-
 import json
 import datetime
 import math
@@ -329,8 +327,6 @@ def user_options():
 
         else:
             print("Message: Enter valid option ")
-
-
 
 
 while True:
