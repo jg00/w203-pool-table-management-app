@@ -295,7 +295,6 @@ def user_options():
                     start_converted_to_dt = datetime.datetime.strptime(table_start_datetime,"%m/%d/%y %H:%M:%S")
                     time_diff_intimedelta = datetime.datetime.now() - start_converted_to_dt
                     number_of_minutes_played = math.floor(time_diff_intimedelta.total_seconds() / 60)
-                    print("Table {0} {1}\t Start:{2}\t MinutesPlayed: {3}".format(table_dictionary["table_number"], table_status, table_start_datetime, number_of_minutes_played))
 
                     # Temporarily prep table dictionary object with calculated values to save to history file
                     table_dictionary["end_date_time"] = end_date_time.strftime("%m/%d/%y %H:%M:%S")
