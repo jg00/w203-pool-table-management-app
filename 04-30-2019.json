@@ -1,0 +1,44 @@
+[
+  {
+    "table_number": "2",
+    "start_date_time": "09/29/18 23:39:47",
+    "end_date_time": "04/30/19 13:50:23",
+    "total_time_played": 306130
+  },
+  {
+    "table_number": "4",
+    "start_date_time": "04/30/19 13:50:06",
+    "end_date_time": "04/30/19 13:50:42",
+    "total_time_played": 0
+  },
+  {
+    "table_number": "6",
+    "start_date_time": "09/29/18 23:39:13",
+    "end_date_time": "04/30/19 13:50:54",
+    "total_time_played": 306131
+  },
+  {
+    "table_number": "9",
+    "start_date_time": "04/30/19 13:53:06",
+    "end_date_time": "04/30/19 13:53:17",
+    "total_time_played": 0
+  },
+  {
+    "table_number": "9",
+    "start_date_time": "04/30/19 13:55:48",
+    "end_date_time": "04/30/19 13:56:00",
+    "total_time_played": 0
+  },
+  {
+    "table_number": "9",
+    "start_date_time": "04/30/19 13:58:27",
+    "end_date_time": "04/30/19 13:58:47",
+    "total_time_played": 0
+  },
+  {
+    "table_number": "4",
+    "start_date_time": "04/30/19 13:55:37",
+    "end_date_time": "04/30/19 14:02:10",
+    "total_time_played": 6
+  }
+]
