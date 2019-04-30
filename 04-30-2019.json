@@ -40,5 +40,17 @@
     "start_date_time": "04/30/19 13:55:37",
     "end_date_time": "04/30/19 14:02:10",
     "total_time_played": 6
+  },
+  {
+    "table_number": "9",
+    "start_date_time": "04/30/19 14:01:35",
+    "end_date_time": "04/30/19 14:49:00",
+    "total_time_played": 47
+  },
+  {
+    "table_number": "4",
+    "start_date_time": "04/30/19 14:48:22",
+    "end_date_time": "04/30/19 14:51:47",
+    "total_time_played": 3
   }
 ]
