@@ -6,7 +6,7 @@ Created a pool table management app using Python. The app lets the user add pool
 
 <a href="https://youtu.be/5C7E4Wl3b7Y" target="_blank"><img src="https://i.imgflip.com/2zty85.gif" title="made at imgflip.com"/></a>
 
-## Site Features
+## App Features
 
 The app allows the user to do the following:
 
